@@ -1,0 +1,10 @@
+[package]
+name = "embedded-hal-async-mock"
+authors = ["Callum Dunster"]
+description = "Mocked implementations of the embedded-hal-async traits, for use with unit tests"
+license = "MIT"
+repository = "https://github.com/cdunster/embedded-hal-async-mock"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
